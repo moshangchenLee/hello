@@ -8,6 +8,7 @@ public class Test1 {
 		ProxyRole proxyRole=new ProxyRole(dog);
 		//代替执行.
 		proxyRole.run();
+		//
 	}
 }
 
